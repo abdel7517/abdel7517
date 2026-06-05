@@ -3,9 +3,7 @@
 
 Software Engineer Full-Stack 
 
-Développeur full-stack avec plus de 4 ans d'expérience.
-
-Actuellement en veille active sur l'IA agentique (LangChain, Pydantic AI, RAG).
+Développeur full-stack.
 
 ## Stack technique
 
